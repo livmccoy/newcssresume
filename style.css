@@ -1,0 +1,52 @@
+header {
+  margin-top: 0;
+  padding: 3em 1em 2em 1em;
+  text-align: center;
+  color: #ffa175;
+}
+
+h2 {
+  color: #ff928d; 
+  letter-spacing: 3px;
+   }
+
+body {
+  font-family: Lato, sans-serif;
+  font-size: 100%;
+  color:#ffa175;
+  line-height: 175%;
+  margin: 0 15% 0;
+  background-color: #fae2d3;
+}
+
+p {
+  word-spacing: 4px;
+}
+
+p#contact {
+  font-size: 100%;
+}
+
+ul.a {
+  list-style-type: circle;
+}
+
+/* unvisited link */
+a:link {
+  color: #ff7d56;
+}
+
+/* visited link */
+a:visited {
+  color: pink;
+}
+
+/* mouse over link */
+a:hover {
+  color: hotpink;
+}
+
+/* selected link */
+a:active {
+  color: #ff7d56;
+}
